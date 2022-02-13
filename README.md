@@ -1,7 +1,7 @@
 <br/>
 
 # Terraform Azure Kubernetes with Github Actions
-<br/><br/>
+<br/>
 
 ![Logo](readmeimage.png)
 
