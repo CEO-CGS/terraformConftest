@@ -1,13 +1,14 @@
-# Terraform Azure Kubernetes with Github Actions
+## Terraform Azure Kubernetes with Github Actions
 
-
+<br/><br/><br/>
 
 ![Logo](readmeimage.png)
 
+<br/><br/>
 
 A small CI/CD pipeline in Github Actions that create an AKS, and has a test for the terraform. The errors are stored in the error folder.
 
-## Future Developement
+### Future Developement
 
 - [ ] Add a better terraform OPA Conftest check to validate the terraform <br/>
 - [ ] Add a clean-up job that deletes resources instead of immediately deleting the kubernetes cluster <br/>
