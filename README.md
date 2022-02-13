@@ -15,4 +15,4 @@ A small CI/CD pipeline in Github Actions that create an AKS, and has a test for 
 - [ ] Clean up the code and increase the code-quality by adding more comments and proper documentation <br/>
 - [ ] Add helmcharts to install things into the kubernetes cluster <br/>
   
-<br/><br/>
+<br/>
